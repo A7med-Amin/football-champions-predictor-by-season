@@ -4,6 +4,8 @@
 
 This repository hosts the code and documentation for the CMPS451 project titled <b>Predicting Football Champions by Season</b>. The project leverages historical football data to predict which team will win the championship in a given season. This analysis not only satisfies the curiosity of sports enthusiasts but also provides valuable insights for sports analytics firms, and clubs, enhancing decision-making related to investments and team strategies.
 
+## NOTE
+
 It's important to <b>note</b> that we do not endorse or support betting activities. Our focus was solely on leveraging historical football data to predict season champions and enhance decision-making processes related to investments and team strategies.
 
 ## Datasets
