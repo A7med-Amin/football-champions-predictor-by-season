@@ -25,7 +25,7 @@ Conduct in-depth EDA to uncover underlying patterns, correlations between variab
 - **Summarizing Categories:** Examine the frequency of championships won by different teams or leagues over the seasons.
 
 ### 3. Model Development and Selection
-Experiment with several machine learning algorithms to find the most effective approach for predicting season champions. This includes classification models like Logistic Regression and Random Forests, ensemble methods, and possibly neural networks.
+Experiment with machine learning algorithm to find the most effective approach for predicting season champions. The chosen classification model is Logistic Regression.
 
 ### 4. Validation and Testing
 Employ a rigorous validation strategy, including cross-validation and holdout testing, to assess the generalizability of our models.
